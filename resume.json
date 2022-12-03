@@ -1,0 +1,362 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Wiz Lee Zhe Heng",
+    "label": "Software Engineer | Curious | Desktop, Automation, Embedded & Web Development",
+    "image": "",
+    "email": "wizlee.dev@gmail.com",
+    "phone": "",
+    "url": "https://wizlee.dev",
+    "summary": "• A technology enthusiast with more than 8 years of experience in various phases of software development project: design, implementation, defect fixing, deployment and testing. \n\n• Fields of work \n    -> Current: News & Sports Broadcasting\n    -> Previous: Embedded System, Machine Automation\n\n• An information security conscious software engineer.\n    -> Equipped with and practices software design principles such as TDD and SOLID principles.\n    -> Work well in a team and as a lead in an initiative/project\n    -> Constantly improving myself with latest programming best practises. \n\n• Skills\n    -> Main: Python, C/C++, Node JS, TDD, Git, Jenkins, and C#. \n    -> Semi-professional: AngularJS, Docker, PowerShell, bash, RabbitMQ, and React JS.",
+    "location": {
+      "countryCode": "US",
+      "address": "Malaysia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "wizlee",
+        "url": "https://www.linkedin.com/in/wizlee/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Grass Valley",
+      "position": "Full Stack Software Engineer",
+      "startDate": "2021-03-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "• Demonstrate quick in learning and rise to the occasion by take ownership over a legacy Java product used in sports production workflows.\n• Currently developing part of a new cloud-based live production product called GV AMPP.",
+      "url": "https://www.linkedin.com/company/1153",
+      "location": "Federal Territory of Kuala Lumpur, Malaysia"
+    },
+    {
+      "name": "Motorola Solutions",
+      "position": "Software Engineer In Test (SET)",
+      "startDate": "2019-08-31",
+      "endDate": "2021-03-31",
+      "highlights": [],
+      "summary": "• Subject matter expert that provides support and advice to the software team in automating the tests of new radio features.\n• Lead another junior team member to work closely with conterparts in the US.\n• Continously enhance the automation test system to support new radio features. This involves communicating with various stakeholders throughout the planning and implementation phases.",
+      "url": "https://www.linkedin.com/company/1771432",
+      "location": "Penang, Malaysia"
+    },
+    {
+      "name": "Motorola Solutions",
+      "position": "Software Engineer",
+      "startDate": "2017-03-31",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "• Be a Scrum Master on top of performing ergonomics firmware design and enhancement.\n• Volunteer to join a new team formed to develop a new flagship radio device.\n• Ramp up new engineers on both the new product and on the automation test, this later leads to another role.",
+      "url": "https://www.linkedin.com/company/1771432",
+      "location": "Penang, Malaysia"
+    },
+    {
+      "name": "Micro Modular System (MMS)",
+      "position": "Software Development Engineer",
+      "startDate": "2013-08-31",
+      "endDate": "2017-03-31",
+      "highlights": [],
+      "summary": "• Able to quickly ramp up to champion the software portion of a machine or tester project despite having no prior C# knowledge. \n• Demonstrate independence by travelling to the customer site to deploy and power up the machine.\n• Starting to exibit ability to communicate with stakeholders when analysing requirements from the business department or directly from the customers",
+      "url": "https://www.linkedin.com/company/31093962",
+      "location": "Penang, Malaysia"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Motorola Solutions",
+      "position": "Chairperson for 2018 Motorola Penang Hackathon",
+      "startDate": "2018-05-31",
+      "endDate": "2018-12-31",
+      "summary": "(I)\tOrganize the first Hackathon in Motorola Penang with good synergy among fellow Hackathon committees.\n(II)\tWork with senior leadership of the organization to align event expectation.  \n(III)\tCreate a committee structure consists of several functional groups each with a group leader. This is important because all the committee members volunteer for the event and efficiency is crucial to maximize everyone’s time. \n",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Motorola Solutions",
+      "position": "Project Member of an Innovation Project",
+      "startDate": "2020-06-30",
+      "endDate": "2020-11-30",
+      "summary": "(I)\tImplements a Proof of Concept (POC) to be presented during Innovation Showcase.\n(II)\tMajor contribution is in the front-end web design and enabling the connection between a radio and a web server via an Ethernet connection.\n",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Tech Dome Penang, Co-sponsored by several Multinational Companies ",
+      "position": "Volunteer in STEM Outreach Program",
+      "startDate": "2018-03-31",
+      "endDate": "2018-03-31",
+      "summary": "Program Name: Women in Zcience (WIZ)\n(I)\tConduct a workshop that will spark students’ interest in Science and Technology with 3 other team members.\n(II)\tThis program targets students from primary school up to the pre-university level.\n(III)\tTitle of the workshop conducted is “Introduction to AI through Python Gaming Experience”\n",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Penang Science Cluster",
+      "position": "Lego Robotics Trainer",
+      "startDate": "2014-09-30",
+      "endDate": "2015-05-31",
+      "summary": "Mentoring secondary school students from SMK Batu Maung in Lego Mindstorm EV3 Robotic Sets. Students are exposed to basic motor movements and simple block diagram programming skills. The objective of the program is to spark interest in students on science and technology by learning in a fun and engaging approach while creating their own solutions to the challenges.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universiti Sains Malaysia",
+      "area": "Electrical and Electronics Engineering (Electronics)",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2009-12-31",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Scrum Master (CSM)",
+      "issuer": "Scrum Alliance",
+      "endDate": "2018-04-30",
+      "startDate": "2016-04-30"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Motorola Solutions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Batch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytical Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Image Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hyper-V",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Powershell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Internals",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Core",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Assembly Language",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electronic Circuit Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reverse Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows SDK",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WinDbg",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Debugging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "gdb",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scala",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Prototyping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SOLID Design Principles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Presentation Foundation (WPF)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "Chinese"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Malay"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Saeed Yasin",
+      "reference": "I worked with Wiz for many years and It was a great pleasure working with him as he is brilliant and passionate. No matter how complex or challenging the problem at hand, Wiz managed to understand and do it in record times. He is always willing to learn new skills and even educate other team members. I believe he will add huge value to any company he chooses to work with. I wish him a good future ahead and success in his future endeavors."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
