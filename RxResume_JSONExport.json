@@ -1,0 +1,618 @@
+{
+    "basics": {
+        "name": "Wiz Lee Zhe Heng",
+        "email": "wizlee.dev@gmail.com",
+        "phone": "",
+        "photo": {
+            "url": "https://images.ctfassets.net/avpqgr46xein/3XnGO2MCez1yx427c7fiZ0/b3a101caa09f4e25958aac2526bca787/profile-pic.png",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "My passion for digital technology continually drives me to advance my skill set as a software engineer. I strongly believe that a good understanding will result in a much better application of knowledge. That believe is the motivation behind pursuing my degree in Electronics Engineering despite my goal of becoming a software engineer. \n\n- Fields of work \n    - Current: Media & Telecommunication\n    - Previous: Embedded System, Machine Automation\n\n- An information security conscious software engineer.\n    - Equipped with and practices software design principles such as TDD and SOLID principles.\n    - Work well in a team and as a lead in an initiative/project\n    - Fast learner with proven track record of learning on-the-job. \n\n- Skills\n    - Main: Python, C/C++, Node JS, TDD, Git, Jenkins/Azure DevOps, and C#. \n    - Semi-professional: AngularJS, Docker, PowerShell, bash, RabbitMQ, and React JS.",
+        "website": "https://wizlee.dev",
+        "headline": "Backend Heavy Full Stack Web Developer | Domain: Automation, Media, Native Apps & Embedded Software",
+        "location": {
+            "city": "",
+            "region": "",
+            "address": "Malaysia",
+            "country": "MY",
+            "postalCode": ""
+        },
+        "profiles": [
+            {
+                "id": "7c40597c-9d1d-484f-b6fc-98d84040db2a",
+                "url": "https://www.linkedin.com/in/wizlee/",
+                "network": "LinkedIn",
+                "username": "wizlee"
+            }
+        ],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "work",
+            "items": [
+                {
+                    "id": "a1e6c43b-ad71-4934-8a40-2b04c5a83ff9",
+                    "url": "https://www.linkedin.com/company/1153",
+                    "date": {
+                        "end": "",
+                        "start": "2022-12-31T00:00:00.000Z"
+                    },
+                    "name": "Grass Valley",
+                    "summary": "Team Lead for AMPP Apps",
+                    "position": "Technical Team Lead"
+                },
+                {
+                    "id": "8f8ce2c1-ec55-4cc5-a8fa-df175f07eebd",
+                    "url": "https://www.linkedin.com/company/1153",
+                    "date": {
+                        "end": "2022-11-30T00:00:00.000Z",
+                        "start": "2021-03-31T00:00:00.000Z"
+                    },
+                    "name": "Grass Valley",
+                    "summary": "• Demonstrate quick in learning and rise to the occasion by take ownership over a legacy Java product used in sports production workflows.\n• Currently developing part of a new cloud-based live production product called FRAMELIGHT X.",
+                    "position": "Full Stack Software Engineer"
+                },
+                {
+                    "id": "e634ca19-896c-49c6-8fab-7c2713660ad6",
+                    "url": "https://www.linkedin.com/company/1771432",
+                    "date": {
+                        "end": "2021-03-31T00:00:00.000Z",
+                        "start": "2019-08-31T00:00:00.000Z"
+                    },
+                    "name": "Motorola Solutions",
+                    "summary": "• Subject matter expert that provides support and advice to the software team in automating the tests of new radio features.\n• Lead another junior team member to work closely with conterparts in the US.\n• Continously enhance the automation test system to support new radio features. This involves communicating with various stakeholders throughout the planning and implementation phases.",
+                    "position": "Software Engineer In Test (SET)"
+                },
+                {
+                    "id": "fe6b816c-b35d-4033-8758-d8b583111f7d",
+                    "url": "https://www.linkedin.com/company/1771432",
+                    "date": {
+                        "end": "2019-07-31T00:00:00.000Z",
+                        "start": "2017-03-31T00:00:00.000Z"
+                    },
+                    "name": "Motorola Solutions",
+                    "summary": "• Be a Scrum Master on top of performing ergonomics firmware design and enhancement.\n• Volunteer to join a new team formed to develop a new flagship radio device.\n• Ramp up new engineers on both the new product and on the automation test, this later leads to another role.",
+                    "position": "Software Engineer"
+                },
+                {
+                    "id": "e1cb898e-8ed5-44d6-add8-29ab338564c1",
+                    "url": "https://www.linkedin.com/company/31093962",
+                    "date": {
+                        "end": "2017-03-31T00:00:00.000Z",
+                        "start": "2013-08-31T00:00:00.000Z"
+                    },
+                    "name": "Micro Modular System (MMS)",
+                    "summary": "• Able to quickly ramp up to champion the software portion of a machine or tester project despite having no prior C# knowledge. \n• Demonstrate independence by travelling to the customer site to deploy and power up the machine.\n• Starting to exibit ability to communicate with stakeholders when analysing requirements from the business department or directly from the customers",
+                    "position": "Software Development Engineer"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "fcbbbe68-baf1-4987-9c31-e25b8b620315",
+                    "name": "Python",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "b6c38144-3ea0-4ae0-a54b-6274520cb12c",
+                    "name": "C++",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "542ce7e1-9cc2-45c7-a1d3-54bf39467590",
+                    "name": "C#",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "a6c1f92e-b475-4247-82ce-0bd314045481",
+                    "name": "Node.js",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "8044e3be-af45-48c2-b5fd-5ea7c523c738",
+                    "name": "Motorola Solutions",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "bb27c1b4-d1f6-4b61-b414-e76738de3bdd",
+                    "name": "Windows Batch",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "0531b9eb-e720-4a89-8ead-d7ba4d1fa723",
+                    "name": "C",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "b4751e5d-a406-4498-bfbd-a4d1512435a8",
+                    "name": "Virtualization",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "ff9971fa-af10-42e7-918c-27e01a62ca48",
+                    "name": "Scrum",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "eb685fbc-3d91-47be-817b-d9a03bc27a07",
+                    "name": "React.js",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "ca80ed8d-4ef9-4c35-96b5-bff0584a2b66",
+                    "name": "Linux",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "92cdfac2-0715-4be0-9959-10e4af532161",
+                    "name": "Analytical Skills",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "aad4870c-5406-4c77-a3ad-9b106e111a17",
+                    "name": "Digital Image Processing",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "b6ab38d2-bd88-43b5-a049-e4096aa8cdf4",
+                    "name": "Hyper-V",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "b51ae1e3-774c-4d73-b681-57f7aaa3c47c",
+                    "name": "Powershell",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "d4f71dc3-3b01-445a-8a5b-8a0f20704bba",
+                    "name": "Windows Internals",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "868c6397-727c-4389-8692-191d1c89ec7d",
+                    "name": "Computer Networking",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "1d33bd27-0d13-4174-a605-3b4864808ed9",
+                    "name": ".NET Core",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "34462987-65e5-427f-9b96-5b10516342a0",
+                    "name": "RabbitMQ",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "8a7497f1-2c11-4b62-b3a8-573839b72dad",
+                    "name": "Teamwork",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "5cacbd69-3655-4909-8a5f-e1132fc02f3f",
+                    "name": "Assembly Language",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "81c11086-4f65-4d21-8111-d51cd4f5a7d8",
+                    "name": "Electronic Circuit Design",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "b4fa4e4c-3fe1-4cbb-ad40-897a1b67824f",
+                    "name": "Reverse Engineering",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "e4e9af8f-00a9-4e53-aa4b-b40311f93103",
+                    "name": "Windows SDK",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "d6f816e6-0f4f-4a18-9afe-68055b77ce45",
+                    "name": "MySQL",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "91595ffb-1730-4164-8b00-577cd113e8c2",
+                    "name": "Java",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "3ae7afdb-b67c-4d5e-8888-dd492eefb2a4",
+                    "name": "WinDbg",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "a1cb5159-274c-4658-b239-ffc4c90336d0",
+                    "name": "Debugging",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "f135911c-c59f-456e-8aee-ab0261c9cd66",
+                    "name": "gdb",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "a3f16200-6a75-4a87-9514-89d8be8c7ea7",
+                    "name": "Scala",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "755447ec-66a9-49fd-bd4e-812c49da7c7d",
+                    "name": "Prototyping",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "1641dc05-7343-43ec-9d82-e8390300e76b",
+                    "name": "Docker",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "83ab0aa8-9ed0-42b4-8813-40083e9ed225",
+                    "name": "Matlab",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "f11a4535-35d6-4205-b597-368719fe574f",
+                    "name": "Microsoft SQL Server",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "0ff4e9e5-16ba-49d0-80d6-018005465d3b",
+                    "name": "HTML",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "165a62ed-8fb9-4e59-b46b-e360906e6dd2",
+                    "name": "SOLID Design Principles",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "9434e713-4763-4b27-bed1-68da7e09d5b7",
+                    "name": ".NET Framework",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "a2210ad4-499f-479c-a137-92db6dc722be",
+                    "name": "Git",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "3b97026f-5711-4d2f-9f95-b6e108078a13",
+                    "name": "Computer Security",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "c54ab002-f649-4fe7-b789-40f2b3fa9da9",
+                    "name": "JavaScript",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "dcd2acaa-8e59-4921-bd26-e9920b7e7a5a",
+                    "name": "Windows Presentation Foundation (WPF)",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "0d7160e6-c3ab-432f-920a-95b143b23bd3",
+                    "name": "Test Driven Development",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "bc859501-954b-45d8-89ee-6f32b2b7eca3",
+                    "area": "Electrical and Electronics Engineering (Electronics)",
+                    "date": {
+                        "end": "2013-12-31T00:00:00.000Z",
+                        "start": "2009-12-31T00:00:00.000Z"
+                    },
+                    "score": "",
+                    "degree": "Bachelor’s Degree",
+                    "courses": [],
+                    "institution": "Universiti Sains Malaysia"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "acaca268-a245-4778-b821-d44a756b8bb2",
+                    "name": "Chinese",
+                    "level": "Native Speaker",
+                    "levelNum": 5
+                },
+                {
+                    "id": "3f7e708c-c1be-4db8-acb6-4324e2468d20",
+                    "name": "English",
+                    "level": "Full Professional",
+                    "levelNum": 5
+                },
+                {
+                    "id": "e8b929e6-d340-4a5d-ab2c-37b5bf6e9f4b",
+                    "name": "Malay",
+                    "level": "Limited Working",
+                    "levelNum": 5
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "6ed514c0-af41-4d76-bb57-18432685881a",
+                    "url": "",
+                    "date": {
+                        "end": "2018-12-31T00:00:00.000Z",
+                        "start": "2018-05-31T00:00:00.000Z"
+                    },
+                    "summary": "(I)\tOrganize the first Hackathon in Motorola Penang with good synergy among fellow Hackathon committees.\n(II)\tWork with senior leadership of the organization to align event expectation.  \n(III)\tCreate a committee structure consists of several functional groups each with a group leader. This is important because all the committee members volunteer for the event and efficiency is crucial to maximize everyone’s time. \n",
+                    "position": "Chairperson for 2018 Motorola Penang Hackathon",
+                    "organization": "Motorola Solutions"
+                },
+                {
+                    "id": "0ca5ecd5-e7cc-4cb8-902a-5339fa1a29f5",
+                    "url": "",
+                    "date": {
+                        "end": "2020-11-30T00:00:00.000Z",
+                        "start": "2020-06-30T00:00:00.000Z"
+                    },
+                    "summary": "(I)\tImplements a Proof of Concept (POC) to be presented during Innovation Showcase.\n(II)\tMajor contribution is in the front-end web design and enabling the connection between a radio and a web server via an Ethernet connection.\n",
+                    "position": "Project Member of an Innovation Project",
+                    "organization": "Motorola Solutions"
+                },
+                {
+                    "id": "ca1715ac-7630-44d2-aab7-e403001c39ee",
+                    "url": "",
+                    "date": {
+                        "end": "2018-03-31T00:00:00.000Z",
+                        "start": "2018-03-31T00:00:00.000Z"
+                    },
+                    "summary": "Program Name: Women in Zcience (WIZ)\n(I)\tConduct a workshop that will spark students’ interest in Science and Technology with 3 other team members.\n(II)\tThis program targets students from primary school up to the pre-university level.\n(III)\tTitle of the workshop conducted is “Introduction to AI through Python Gaming Experience”\n",
+                    "position": "Volunteer in STEM Outreach Program",
+                    "organization": "Tech Dome Penang, Co-sponsored by several Multinational Companies "
+                },
+                {
+                    "id": "bc5fc7cf-4d32-4fbb-b571-0621e6c4ca6e",
+                    "url": "",
+                    "date": {
+                        "end": "2015-05-31T00:00:00.000Z",
+                        "start": "2014-09-30T00:00:00.000Z"
+                    },
+                    "summary": "Mentoring secondary school students from SMK Batu Maung in Lego Mindstorm EV3 Robotic Sets. Students are exposed to basic motor movements and simple block diagram programming skills. The objective of the program is to spark interest in students on science and technology by learning in a fun and engaging approach while creating their own solutions to the challenges.",
+                    "position": "Lego Robotics Trainer",
+                    "organization": "Penang Science Cluster"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "8688de0d-133e-43a2-920d-f353dd066999",
+                    "name": "Saeed Yasin",
+                    "relationship": "I worked with Wiz for many years and It was a great pleasure working with him as he is brilliant and passionate. No matter how complex or challenging the problem at hand, Wiz managed to understand and do it in record times. He is always willing to learn new skills and even educate other team members. I believe he will add huge value to any company he chooses to work with. I wish him a good future ahead and success in his future endeavors."
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "f44b1b00-0bec-4435-838b-f6a3a8eed29b",
+                    "url": "https://dev.to/wizlee/how-to-build-a-marketplace-with-angular-etsy-clone-1oae",
+                    "date": "2021-08-07T00:00:00.000Z",
+                    "name": "How to Build a Marketplace with Angular (Etsy Clone)",
+                    "summary": "A detailed step by step guide to build a marketplace site with chat integration using Angular and CometChat. Original article referenced as canonical_url in the dev.to article.",
+                    "publisher": "CometChat"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "DD MMMM YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#ffffff",
+            "primary": "#673ab7",
+            "background": "#090101"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "castform",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
