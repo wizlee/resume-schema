@@ -1,15 +1,20 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "spartan",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  },
+
   "basics": {
     "name": "Wiz Lee Zhe Heng",
-    "label": "Software Engineer | Curious | Desktop, Automation, Embedded & Web Development",
-    "image": "",
+    "label": "Backend Heavy Full Stack Web Developer | Domain: Automation, Media, Native Apps & Embedded Software",
+    "image": "https://images.ctfassets.net/avpqgr46xein/3XnGO2MCez1yx427c7fiZ0/b3a101caa09f4e25958aac2526bca787/profile-pic.png",
     "email": "wizlee.dev@gmail.com",
-    "phone": "",
-    "url": "https://wizlee.dev",
-    "summary": "• A technology enthusiast with more than 8 years of experience in various phases of software development project: design, implementation, defect fixing, deployment and testing. \n\n• Fields of work \n    -> Current: News & Sports Broadcasting\n    -> Previous: Embedded System, Machine Automation\n\n• An information security conscious software engineer.\n    -> Equipped with and practices software design principles such as TDD and SOLID principles.\n    -> Work well in a team and as a lead in an initiative/project\n    -> Constantly improving myself with latest programming best practises. \n\n• Skills\n    -> Main: Python, C/C++, Node JS, TDD, Git, Jenkins, and C#. \n    -> Semi-professional: AngularJS, Docker, PowerShell, bash, RabbitMQ, and React JS.",
+    "website": "https://wizlee.dev",
+    "summary": "My passion for digital technology continually drives me to advance my skill set as a software engineer. I strongly believe that a good understanding will result in a much better application of knowledge. That believe is the motivation behind pursuing my degree in Electronics Engineering despite my goal of becoming a software engineer. \n\n• Fields of work \n    -> Current: Media & Telecommunication\n    -> Previous: Embedded System, Machine Automation\n\n• An information security conscious software engineer.\n    -> Equipped with and practices software design principles such as TDD and SOLID principles.\n    -> Work well in a team and as a lead in an initiative/project\n    -> Fast learner with proven track record of learning on-the-job. \n\n• Skills\n    -> Main: Python, C/C++, Node JS, TDD, Git, Jenkins/Azure DevOps, and C#. \n    -> Semi-professional: AngularJS, Docker, PowerShell, bash, RabbitMQ, and React JS.",
     "location": {
-      "countryCode": "US",
+      "countryCode": "MY",
       "address": "Malaysia"
     },
     "profiles": [
@@ -23,11 +28,20 @@
   "work": [
     {
       "name": "Grass Valley",
+      "position": "Technical Team Lead",
+      "startDate": "2022-12-31",
+      "highlights": [],
+      "summary": "Team Lead for AMPP Apps",
+      "url": "https://www.linkedin.com/company/1153",
+      "location": "Federal Territory of Kuala Lumpur, Malaysia"
+    },
+    {
+      "name": "Grass Valley",
       "position": "Full Stack Software Engineer",
       "startDate": "2021-03-31",
-      "endDate": "",
+      "endDate": "2022-11-30",
       "highlights": [],
-      "summary": "• Demonstrate quick in learning and rise to the occasion by take ownership over a legacy Java product used in sports production workflows.\n• Currently developing part of a new cloud-based live production product called GV AMPP.",
+      "summary": "• Demonstrate quick in learning and rise to the occasion by take ownership over a legacy Java product used in sports production workflows.\n• Currently developing part of a new cloud-based live production product called FRAMELIGHT X.",
       "url": "https://www.linkedin.com/company/1153",
       "location": "Federal Territory of Kuala Lumpur, Malaysia"
     },
@@ -120,7 +134,15 @@
       "startDate": "2016-04-30"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "How to Build a Marketplace with Angular (Etsy Clone)",
+      "publisher": "CometChat",
+      "releaseDate": "2021-08-07",
+      "summary": "A detailed step by step guide to build a marketplace site with chat integration using Angular and CometChat. Original article referenced as canonical_url in the dev.to article.",
+      "url": "https://dev.to/wizlee/how-to-build-a-marketplace-with-angular-etsy-clone-1oae"
+    }
+  ],
   "skills": [
     {
       "name": "Python",
@@ -354,9 +376,5 @@
       "reference": "I worked with Wiz for many years and It was a great pleasure working with him as he is brilliant and passionate. No matter how complex or challenging the problem at hand, Wiz managed to understand and do it in record times. He is always willing to learn new skills and even educate other team members. I believe he will add huge value to any company he chooses to work with. I wish him a good future ahead and success in his future endeavors."
     }
   ],
-  "projects": [],
-  "meta": {
-    "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
-  }
+  "projects": []
 }
