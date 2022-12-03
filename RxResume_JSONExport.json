@@ -537,7 +537,7 @@
                     "relationship": "I worked with Wiz for many years and It was a great pleasure working with him as he is brilliant and passionate. No matter how complex or challenging the problem at hand, Wiz managed to understand and do it in record times. He is always willing to learn new skills and even educate other team members. I believe he will add huge value to any company he chooses to work with. I wish him a good future ahead and success in his future endeavors."
                 }
             ],
-            "columns": 2,
+            "columns": 1,
             "visible": true
         },
         "publications": {
@@ -554,7 +554,7 @@
                     "publisher": "CometChat"
                 }
             ],
-            "columns": 2,
+            "columns": 1,
             "visible": true
         },
         "certifications": {
@@ -562,7 +562,7 @@
             "name": "Certifications",
             "type": "basic",
             "items": [],
-            "columns": 2,
+            "columns": 1,
             "visible": true
         }
     },
@@ -579,8 +579,8 @@
         },
         "theme": {
             "text": "#ffffff",
-            "primary": "#673ab7",
-            "background": "#090101"
+            "primary": "#cc4ed9",
+            "background": "#16213E"
         },
         "layout": [
             [
@@ -592,12 +592,12 @@
                     "references"
                 ],
                 [
+                    "publications",
                     "skills",
                     "interests",
                     "languages",
                     "awards",
-                    "certifications",
-                    "publications"
+                    "certifications"
                 ]
             ]
         ],
