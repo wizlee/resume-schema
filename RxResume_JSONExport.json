@@ -7,7 +7,7 @@
             "url": "https://images.ctfassets.net/avpqgr46xein/3XnGO2MCez1yx427c7fiZ0/b3a101caa09f4e25958aac2526bca787/profile-pic.png",
             "filters": {
                 "size": 128,
-                "shape": "square",
+                "shape": "rounded-square",
                 "border": false,
                 "grayscale": false
             },
@@ -112,298 +112,67 @@
             "type": "basic",
             "items": [
                 {
-                    "id": "fcbbbe68-baf1-4987-9c31-e25b8b620315",
-                    "name": "Python",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
+                    "id": "e27660b2-2b0f-48b0-9b04-3597f0282d06",
+                    "name": "Backend Development",
+                    "level": "Expert",
+                    "keywords": [
+                        "Python",
+                        "C/C++",
+                        "C#",
+                        "Docker",
+                        "Java",
+                        "Node.js",
+                        "MySQL",
+                        "Scala",
+                        ".NET Core"
+                    ],
+                    "levelNum": 10
                 },
                 {
-                    "id": "b6c38144-3ea0-4ae0-a54b-6274520cb12c",
-                    "name": "C++",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
+                    "id": "2f98e07e-21f7-4b40-81e3-4cf529d43339",
+                    "name": "Frontend Web Development",
+                    "level": "Intermediate",
+                    "keywords": [
+                        "AngularJS",
+                        "HTML/CSS",
+                        "jQuery",
+                        "ReactJS",
+                        "Gatsby"
+                    ],
+                    "levelNum": 7
                 },
                 {
-                    "id": "542ce7e1-9cc2-45c7-a1d3-54bf39467590",
-                    "name": "C#",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
+                    "id": "bf4253f2-7829-432c-a1d5-07446e7ae873",
+                    "name": "OS Internals",
+                    "level": "Intermediate",
+                    "keywords": [
+                        "Unix Shell (Bash)",
+                        "Windows Shell (PowerShell, Batch)",
+                        "x86 Assembly Language",
+                        "Windows Internals",
+                        "Linux Internals",
+                        "Reverse Engineering",
+                        "WinDbg",
+                        "gdb"
+                    ],
+                    "levelNum": 6
                 },
                 {
-                    "id": "a6c1f92e-b475-4247-82ce-0bd314045481",
-                    "name": "Node.js",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "8044e3be-af45-48c2-b5fd-5ea7c523c738",
-                    "name": "Motorola Solutions",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "bb27c1b4-d1f6-4b61-b414-e76738de3bdd",
-                    "name": "Windows Batch",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "0531b9eb-e720-4a89-8ead-d7ba4d1fa723",
-                    "name": "C",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "b4751e5d-a406-4498-bfbd-a4d1512435a8",
-                    "name": "Virtualization",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "ff9971fa-af10-42e7-918c-27e01a62ca48",
-                    "name": "Scrum",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "eb685fbc-3d91-47be-817b-d9a03bc27a07",
-                    "name": "React.js",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "ca80ed8d-4ef9-4c35-96b5-bff0584a2b66",
-                    "name": "Linux",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "92cdfac2-0715-4be0-9959-10e4af532161",
-                    "name": "Analytical Skills",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "aad4870c-5406-4c77-a3ad-9b106e111a17",
-                    "name": "Digital Image Processing",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "b6ab38d2-bd88-43b5-a049-e4096aa8cdf4",
-                    "name": "Hyper-V",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "b51ae1e3-774c-4d73-b681-57f7aaa3c47c",
-                    "name": "Powershell",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "d4f71dc3-3b01-445a-8a5b-8a0f20704bba",
-                    "name": "Windows Internals",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "868c6397-727c-4389-8692-191d1c89ec7d",
-                    "name": "Computer Networking",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "1d33bd27-0d13-4174-a605-3b4864808ed9",
-                    "name": ".NET Core",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "34462987-65e5-427f-9b96-5b10516342a0",
-                    "name": "RabbitMQ",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "8a7497f1-2c11-4b62-b3a8-573839b72dad",
-                    "name": "Teamwork",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "5cacbd69-3655-4909-8a5f-e1132fc02f3f",
-                    "name": "Assembly Language",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "81c11086-4f65-4d21-8111-d51cd4f5a7d8",
-                    "name": "Electronic Circuit Design",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "b4fa4e4c-3fe1-4cbb-ad40-897a1b67824f",
-                    "name": "Reverse Engineering",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "e4e9af8f-00a9-4e53-aa4b-b40311f93103",
-                    "name": "Windows SDK",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "d6f816e6-0f4f-4a18-9afe-68055b77ce45",
-                    "name": "MySQL",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "91595ffb-1730-4164-8b00-577cd113e8c2",
-                    "name": "Java",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "3ae7afdb-b67c-4d5e-8888-dd492eefb2a4",
-                    "name": "WinDbg",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "a1cb5159-274c-4658-b239-ffc4c90336d0",
-                    "name": "Debugging",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "f135911c-c59f-456e-8aee-ab0261c9cd66",
-                    "name": "gdb",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "a3f16200-6a75-4a87-9514-89d8be8c7ea7",
-                    "name": "Scala",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "755447ec-66a9-49fd-bd4e-812c49da7c7d",
-                    "name": "Prototyping",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "1641dc05-7343-43ec-9d82-e8390300e76b",
-                    "name": "Docker",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "83ab0aa8-9ed0-42b4-8813-40083e9ed225",
-                    "name": "Matlab",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "f11a4535-35d6-4205-b597-368719fe574f",
-                    "name": "Microsoft SQL Server",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "0ff4e9e5-16ba-49d0-80d6-018005465d3b",
-                    "name": "HTML",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "165a62ed-8fb9-4e59-b46b-e360906e6dd2",
-                    "name": "SOLID Design Principles",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "9434e713-4763-4b27-bed1-68da7e09d5b7",
-                    "name": ".NET Framework",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "a2210ad4-499f-479c-a137-92db6dc722be",
-                    "name": "Git",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "3b97026f-5711-4d2f-9f95-b6e108078a13",
-                    "name": "Computer Security",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "c54ab002-f649-4fe7-b789-40f2b3fa9da9",
-                    "name": "JavaScript",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "dcd2acaa-8e59-4921-bd26-e9920b7e7a5a",
-                    "name": "Windows Presentation Foundation (WPF)",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "0d7160e6-c3ab-432f-920a-95b143b23bd3",
-                    "name": "Test Driven Development",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
+                    "id": "0b4a6206-7a2b-47a4-b71d-59c24ceee219",
+                    "name": "Technologies/Concepts",
+                    "level": "Intermediate",
+                    "keywords": [
+                        "Git",
+                        "SOLID Design Principles",
+                        "Test Driven Development (TDD)",
+                        "Computer Security",
+                        "RabbitMQ",
+                        "Virtualization",
+                        "Digital Image Processing",
+                        "Computer Networking",
+                        "Electronic Circuit Design"
+                    ],
+                    "levelNum": 6
                 }
             ],
             "columns": 2,
@@ -561,7 +330,19 @@
             "id": "certifications",
             "name": "Certifications",
             "type": "basic",
-            "items": [],
+            "items": [
+              {
+                "id": "75b87dcb-56ef-498d-bd26-a7d646bec914",
+                "url": "https://www.scrumalliance.org/",
+                "date": {
+                  "end": "2018-04-01T00:00:00.000Z",
+                  "start": "2016-04-01T00:00:00.000Z"
+                },
+                "name": "Certified Scrum Master (CSM)",
+                "issuer": "Scrum Alliance",
+                "summary": "Credential ID 000516133"
+              }
+            ],
             "columns": 1,
             "visible": true
         }
