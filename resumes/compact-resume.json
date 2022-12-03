@@ -13,7 +13,7 @@
             },
             "visible": true
         },
-        "summary": "My passion for digital technology continually drives me to advance my skill set as a software engineer. I strongly believe that a good understanding will result in a much better application of knowledge. That believe is the motivation behind pursuing my degree in Electronics Engineering despite my goal of becoming a software engineer. \n\n- Fields of work \n    - Current: Media & Telecommunication\n    - Previous: Embedded System, Machine Automation\n\n- An information security conscious software engineer.\n    - Equipped with and practices software design principles such as TDD and SOLID principles.\n    - Work well in a team and as a lead in an initiative/project\n    - Fast learner with proven track record of learning on-the-job. \n\n- Skills\n    - Main: Python, C/C++, Node JS, TDD, Git, Jenkins/Azure DevOps, and C#. \n    - Semi-professional: AngularJS, Docker, PowerShell, bash, RabbitMQ, and React JS.",
+        "summary": "My passion for digital technology continually drives me to advance my skill set as a software engineer. I strongly believe that a good understanding will result in a much better application of knowledge. That believe is the motivation behind pursuing my degree in Electronics Engineering despite my goal of becoming a software engineer. \n\n- Fields of work \n    - Current: Media & Telecommunication\n    - Previous: Embedded System, Machine Automation\n\n- An information security conscious software engineer.\n    - Equipped with and practices software design principles such as TDD and SOLID principles.\n    - Work well in a team and as a lead in an initiative/project\n    - Fast learner with proven track record of learning on-the-job. ",
         "website": "https://wizlee.dev",
         "headline": "Backend Heavy Full Stack Web Developer | Domain: Automation, Media, Native Apps & Embedded Software",
         "location": {
@@ -26,15 +26,15 @@
         "profiles": [
             {
                 "id": "7c40597c-9d1d-484f-b6fc-98d84040db2a",
-                "url": "https://www.linkedin.com/in/wizlee/",
+                "url": "https://www.linkedin.com/in/wizlee",
                 "network": "LinkedIn",
-                "username": "wizlee"
+                "username": "https://www.linkedin.com/in/wizlee"
             },
             {
                 "id": "8f77327d-4484-40b4-92eb-65eaa6aae5f4",
-                "url": "https://github.com/wizlee/",
+                "url": "https://github.com/wizlee",
                 "network": "Github",
-                "username": "wizlee"
+                "username": "https://github.com/wizlee"
             }
         ],
         "birthdate": ""
@@ -101,7 +101,7 @@
                     "position": "Software Development Engineer"
                 }
             ],
-            "columns": 2,
+            "columns": 1,
             "visible": true
         },
         "awards": {
@@ -149,7 +149,7 @@
                 },
                 {
                     "id": "bf4253f2-7829-432c-a1d5-07446e7ae873",
-                    "name": "OS Internals",
+                    "name": "Operation Systems",
                     "level": "Intermediate",
                     "keywords": [
                         "Unix Shell (Bash)",
@@ -159,13 +159,13 @@
                         "Linux Internals",
                         "Reverse Engineering",
                         "WinDbg",
-                        "gdb"
+                        "GDB"
                     ],
                     "levelNum": 6
                 },
                 {
                     "id": "0b4a6206-7a2b-47a4-b71d-59c24ceee219",
-                    "name": "Technologies/Concepts",
+                    "name": "Tools/Concepts",
                     "level": "Intermediate",
                     "keywords": [
                         "Git",
@@ -176,12 +176,13 @@
                         "Virtualization",
                         "Digital Image Processing",
                         "Computer Networking",
-                        "Electronic Circuit Design"
+                        "Electronic Circuit Design",
+                        "Jenkins/Azure DevOps"
                     ],
                     "levelNum": 6
                 }
             ],
-            "columns": 2,
+            "columns": 1,
             "visible": true
         },
         "projects": {
@@ -220,7 +221,7 @@
             "items": [
                 {
                     "id": "ddebb0e1-0a49-4ca6-be8a-956f10f62307",
-                    "name": "Sports / Outdoor Activities",
+                    "name": "Sports / Outdoor Activities:",
                     "keywords": [
                         "Badminton",
                         "Basketball",
@@ -230,7 +231,7 @@
                 },
                 {
                     "id": "2df59b01-8dde-40d5-b3da-f5f5e698e8fa",
-                    "name": "Science",
+                    "name": "Science:",
                     "keywords": [
                         "Astronomy",
                         "Engineering",
@@ -239,22 +240,22 @@
                 },
                 {
                     "id": "9939e616-9f03-4ec0-bb8e-25183925c7fc",
-                    "name": "Artificial Intelligence",
+                    "name": "Artificial Intelligence:",
                     "keywords": [
                         "Machine Learning",
+                        "ImageNet",
                         "Stable Diffusion"
                     ]
                 },
                 {
                     "id": "dc1bb429-1baf-4a0c-80ba-4d7a24f66e52",
-                    "name": "Video Games",
+                    "name": "Video Games:",
                     "keywords": [
                         "Minecraft",
                         "Counter-Strike",
                         "Defend of The Ancients"
                     ]
                 }
-
             ],
             "columns": 2,
             "visible": true
@@ -283,7 +284,7 @@
                     "levelNum": 6
                 }
             ],
-            "columns": 2,
+            "columns": 1,
             "visible": true
         },
         "volunteer": {
@@ -336,7 +337,7 @@
                     "organization": "Penang Science Cluster"
                 }
             ],
-            "columns": 2,
+            "columns": 1,
             "visible": true
         },
         "references": {
@@ -375,17 +376,17 @@
             "name": "Certifications",
             "type": "basic",
             "items": [
-              {
-                "id": "75b87dcb-56ef-498d-bd26-a7d646bec914",
-                "url": "https://www.scrumalliance.org/",
-                "date": {
-                  "end": "2018-04-01T00:00:00.000Z",
-                  "start": "2016-04-01T00:00:00.000Z"
-                },
-                "name": "Certified Scrum Master (CSM)",
-                "issuer": "Scrum Alliance",
-                "summary": "Credential ID 000516133"
-              }
+                {
+                    "id": "75b87dcb-56ef-498d-bd26-a7d646bec914",
+                    "url": "https://www.scrumalliance.org/",
+                    "date": {
+                        "end": "2018-04-01T00:00:00.000Z",
+                        "start": "2016-04-01T00:00:00.000Z"
+                    },
+                    "name": "Certified Scrum Master (CSM)",
+                    "issuer": "Scrum Alliance",
+                    "summary": "Credential ID 000516133"
+                }
             ],
             "columns": 1,
             "visible": true
@@ -410,19 +411,25 @@
         "layout": [
             [
                 [
-                    "work",
-                    "education",
-                    "projects",
-                    "volunteer",
-                    "references"
+                    "work"
                 ],
                 [
                     "publications",
-                    "skills",
+                    "skills"
+                ]
+            ],
+            [
+                [
+                    "education",
+                    "volunteer",
+                    "references",
+                    "projects"
+                ],
+                [
+                    "certifications",
                     "interests",
                     "languages",
-                    "awards",
-                    "certifications"
+                    "awards"
                 ]
             ]
         ],

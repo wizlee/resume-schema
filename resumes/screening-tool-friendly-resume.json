@@ -1,0 +1,453 @@
+{
+    "basics": {
+        "name": "Wiz Lee",
+        "email": "wizlee.dev@gmail.com",
+        "phone": "",
+        "photo": {
+            "url": "https://images.ctfassets.net/avpqgr46xein/3XnGO2MCez1yx427c7fiZ0/b3a101caa09f4e25958aac2526bca787/profile-pic.png",
+            "filters": {
+                "size": 128,
+                "shape": "rounded-square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "My passion for digital technology continually drives me to advance my skill set as a software engineer. I strongly believe that a good understanding will result in a much better application of knowledge. That believe is the motivation behind pursuing my degree in Electronics Engineering despite my goal of becoming a software engineer. \n\n- Fields of work \n    - Current: Media & Telecommunication\n    - Previous: Embedded System, Machine Automation\n\n- An information security conscious software engineer.\n    - Equipped with and practices software design principles such as TDD and SOLID principles.\n    - Work well in a team and as a lead in an initiative/project\n    - Fast learner with proven track record of learning on-the-job. ",
+        "website": "https://wizlee.dev",
+        "headline": "Backend Heavy Full Stack Web Developer | Domain: Automation, Media, Native Apps & Embedded Software",
+        "location": {
+            "city": "",
+            "region": "",
+            "address": "Malaysia",
+            "country": "MY",
+            "postalCode": ""
+        },
+        "profiles": [
+            {
+                "id": "7c40597c-9d1d-484f-b6fc-98d84040db2a",
+                "url": "https://www.linkedin.com/in/wizlee",
+                "network": "LinkedIn",
+                "username": "https://www.linkedin.com/in/wizlee"
+            },
+            {
+                "id": "8f77327d-4484-40b4-92eb-65eaa6aae5f4",
+                "url": "https://github.com/wizlee",
+                "network": "Github",
+                "username": "https://github.com/wizlee"
+            }
+        ],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "work",
+            "items": [
+                {
+                    "id": "a1e6c43b-ad71-4934-8a40-2b04c5a83ff9",
+                    "url": "https://www.grassvalley.com/products/cloud-based-workflows/",
+                    "date": {
+                        "end": "",
+                        "start": "2022-12-31T00:00:00.000Z"
+                    },
+                    "name": "Grass Valley",
+                    "summary": "Team Lead for [AMPP Apps](https://www.grassvalley.com/products/cloud-based-workflows/cloud-based-workflows/gv-ampp-apps/)",
+                    "position": "Technical Team Lead"
+                },
+                {
+                    "id": "8f8ce2c1-ec55-4cc5-a8fa-df175f07eebd",
+                    "url": "https://www.grassvalley.com/products/cloud-based-workflows/",
+                    "date": {
+                        "end": "2022-11-30T00:00:00.000Z",
+                        "start": "2021-03-31T00:00:00.000Z"
+                    },
+                    "name": "Grass Valley",
+                    "summary": "- Demonstrate quick in learning and rise to the occasion by take ownership over a legacy Java product used in sports production workflows.\n- Currently developing part of a new cloud-based live production product called [FRAMELIGHT X](https://www.grassvalley.com/products/cloud-based-workflows/framelight-x/).",
+                    "position": "Full Stack Software Engineer"
+                },
+                {
+                    "id": "e634ca19-896c-49c6-8fab-7c2713660ad6",
+                    "url": "https://www.motorolasolutions.com/en_us/products/p25-products/apx-story.html",
+                    "date": {
+                        "end": "2021-03-31T00:00:00.000Z",
+                        "start": "2019-08-31T00:00:00.000Z"
+                    },
+                    "name": "Motorola Solutions",
+                    "summary": "- Subject matter expert that provides support and advice to the software team in automating the tests of new radio features.\n- Lead another junior team member to work closely with conterparts in the US.\n- Continously enhance the automation test system to support new radio features. This involves communicating with various stakeholders throughout the planning and implementation phases.",
+                    "position": "Software Engineer In Test (SET)"
+                },
+                {
+                    "id": "fe6b816c-b35d-4033-8758-d8b583111f7d",
+                    "url": "https://www.motorolasolutions.com/en_us/products/p25-products/apx-story.html",
+                    "date": {
+                        "end": "2019-07-31T00:00:00.000Z",
+                        "start": "2017-03-31T00:00:00.000Z"
+                    },
+                    "name": "Motorola Solutions",
+                    "summary": "- Be a Scrum Master on top of performing ergonomics firmware design and enhancement.\n- Volunteer to join a new team formed to develop a new flagship radio device.\n- Ramp up new engineers on both the new product and on the automation test, this later leads to another role.",
+                    "position": "Software Engineer"
+                },
+                {
+                    "id": "e1cb898e-8ed5-44d6-add8-29ab338564c1",
+                    "url": "https://mmsis.com/product-category/end-of-line/",
+                    "date": {
+                        "end": "2017-03-31T00:00:00.000Z",
+                        "start": "2013-08-31T00:00:00.000Z"
+                    },
+                    "name": "Micro Modular System (MMS)",
+                    "summary": "- Able to quickly ramp up to champion the software portion of a machine or tester project despite having no prior C# knowledge. \n- Demonstrate independence by travelling to the customer site to deploy and power up the machine.\n- Starting to exibit ability to communicate with stakeholders when analysing requirements from the business department or directly from the customers",
+                    "position": "Software Development Engineer"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "e27660b2-2b0f-48b0-9b04-3597f0282d06",
+                    "name": "Backend Development",
+                    "level": "Expert",
+                    "keywords": [
+                        "Python",
+                        "C/C++",
+                        "C#",
+                        "Docker",
+                        "Java",
+                        "Node.js",
+                        "MySQL",
+                        "Scala",
+                        ".NET Core"
+                    ],
+                    "levelNum": 10
+                },
+                {
+                    "id": "2f98e07e-21f7-4b40-81e3-4cf529d43339",
+                    "name": "Frontend Web Development",
+                    "level": "Intermediate",
+                    "keywords": [
+                        "AngularJS",
+                        "HTML/CSS",
+                        "jQuery",
+                        "ReactJS",
+                        "Gatsby"
+                    ],
+                    "levelNum": 7
+                },
+                {
+                    "id": "bf4253f2-7829-432c-a1d5-07446e7ae873",
+                    "name": "Operation Systems",
+                    "level": "Intermediate",
+                    "keywords": [
+                        "Unix Shell (Bash)",
+                        "Windows Shell (PowerShell, Batch)",
+                        "x86 Assembly Language",
+                        "Windows Internals",
+                        "Linux Internals",
+                        "Reverse Engineering",
+                        "WinDbg",
+                        "GDB"
+                    ],
+                    "levelNum": 6
+                },
+                {
+                    "id": "0b4a6206-7a2b-47a4-b71d-59c24ceee219",
+                    "name": "Tools/Concepts",
+                    "level": "Intermediate",
+                    "keywords": [
+                        "Git",
+                        "SOLID Design Principles",
+                        "Test Driven Development (TDD)",
+                        "Computer Security",
+                        "RabbitMQ",
+                        "Virtualization",
+                        "Digital Image Processing",
+                        "Computer Networking",
+                        "Electronic Circuit Design",
+                        "Jenkins/Azure DevOps"
+                    ],
+                    "levelNum": 6
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "bc859501-954b-45d8-89ee-6f32b2b7eca3",
+                    "area": "Electrical and Electronics Engineering (Electronics)",
+                    "date": {
+                        "end": "2013-12-31T00:00:00.000Z",
+                        "start": "2009-12-31T00:00:00.000Z"
+                    },
+                    "score": "",
+                    "degree": "Bachelor's Degree",
+                    "courses": [],
+                    "institution": "Universiti Sains Malaysia"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "ddebb0e1-0a49-4ca6-be8a-956f10f62307",
+                    "name": "Sports / Outdoor Activities:",
+                    "keywords": [
+                        "Badminton",
+                        "Basketball",
+                        "Hiking",
+                        "Ping Pong"
+                    ]
+                },
+                {
+                    "id": "2df59b01-8dde-40d5-b3da-f5f5e698e8fa",
+                    "name": "Science:",
+                    "keywords": [
+                        "Astronomy",
+                        "Engineering",
+                        "Nature"
+                    ]
+                },
+                {
+                    "id": "9939e616-9f03-4ec0-bb8e-25183925c7fc",
+                    "name": "Artificial Intelligence:",
+                    "keywords": [
+                        "Machine Learning",
+                        "ImageNet",
+                        "Stable Diffusion"
+                    ]
+                },
+                {
+                    "id": "dc1bb429-1baf-4a0c-80ba-4d7a24f66e52",
+                    "name": "Video Games:",
+                    "keywords": [
+                        "Minecraft",
+                        "Counter-Strike",
+                        "Defend of The Ancients"
+                    ]
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "acaca268-a245-4778-b821-d44a756b8bb2",
+                    "name": "Chinese",
+                    "level": "Native Speaker",
+                    "levelNum": 9
+                },
+                {
+                    "id": "3f7e708c-c1be-4db8-acb6-4324e2468d20",
+                    "name": "English",
+                    "level": "Full Professional",
+                    "levelNum": 8
+                },
+                {
+                    "id": "e8b929e6-d340-4a5d-ab2c-37b5bf6e9f4b",
+                    "name": "Malay",
+                    "level": "Limited Working",
+                    "levelNum": 6
+                }
+            ],
+            "columns": 3,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "6ed514c0-af41-4d76-bb57-18432685881a",
+                    "url": "",
+                    "date": {
+                        "end": "2018-12-31T00:00:00.000Z",
+                        "start": "2018-05-31T00:00:00.000Z"
+                    },
+                    "summary": "i. Organize the first Hackathon in Motorola Penang with good synergy among fellow Hackathon committees.\nii. Work with senior leadership of the organization to align event expectation.  \niii. Create a committee structure consists of several functional groups each with a group leader. This is important because all the committee members volunteer for the event and efficiency is crucial to maximize everyone's time.",
+                    "position": "Chairperson for 2018 Motorola Penang Hackathon",
+                    "organization": "Motorola Solutions"
+                },
+                {
+                    "id": "0ca5ecd5-e7cc-4cb8-902a-5339fa1a29f5",
+                    "url": "",
+                    "date": {
+                        "end": "2020-11-30T00:00:00.000Z",
+                        "start": "2020-06-30T00:00:00.000Z"
+                    },
+                    "summary": "i. Implements a Proof of Concept (POC) to be presented during Innovation Showcase.\nii. Major contribution is in the front-end web design and enabling the connection between a radio and a web server via an Ethernet connection.",
+                    "position": "Project Member of an Innovation Project",
+                    "organization": "Motorola Solutions"
+                },
+                {
+                    "id": "ca1715ac-7630-44d2-aab7-e403001c39ee",
+                    "url": "",
+                    "date": {
+                        "end": "2018-03-31T00:00:00.000Z",
+                        "start": "2018-03-31T00:00:00.000Z"
+                    },
+                    "summary": "Program Name: Women in Zcience (WIZ)\ni. Conduct a workshop that will spark students' interest in Science and Technology with 3 other team members.\nii. This program targets students from primary school up to the pre-university level.\niii. Title of the workshop conducted is 'Introduction to AI through Python Gaming Experience'",
+                    "position": "Volunteer in STEM Outreach Program",
+                    "organization": "Tech Dome Penang, Co-sponsored by several Multinational Companies "
+                },
+                {
+                    "id": "bc5fc7cf-4d32-4fbb-b571-0621e6c4ca6e",
+                    "url": "",
+                    "date": {
+                        "end": "2015-05-31T00:00:00.000Z",
+                        "start": "2014-09-30T00:00:00.000Z"
+                    },
+                    "summary": "Mentoring secondary school students from SMK Batu Maung in Lego Mindstorm EV3 Robotic Sets.\n- The objective of the program is to spark interest in students on science and technology by learning in a fun and engaging approach while creating their own solutions to the challenges.\n- Students are exposed to basic motor movements and simple block diagram programming skills.",
+                    "position": "Lego Robotics Trainer",
+                    "organization": "Penang Science Cluster"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "8688de0d-133e-43a2-920d-f353dd066999",
+                    "name": "Saeed Yasin",
+                    "relationship": "I worked with Wiz for many years and It was a great pleasure working with him as he is brilliant and passionate. No matter how complex or challenging the problem at hand, Wiz managed to understand and do it in record times. He is always willing to learn new skills and even educate other team members. I believe he will add huge value to any company he chooses to work with. I wish him a good future ahead and success in his future endeavors."
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "f44b1b00-0bec-4435-838b-f6a3a8eed29b",
+                    "url": "https://dev.to/wizlee/how-to-build-a-marketplace-with-angular-etsy-clone-1oae",
+                    "date": "2021-08-07T00:00:00.000Z",
+                    "name": "How to Build a Marketplace with Angular (Etsy Clone)",
+                    "summary": "A detailed step by step guide to build a marketplace site with chat integration using Angular and CometChat. Original article referenced as canonical_url in the dev.to article.",
+                    "publisher": "CometChat"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "75b87dcb-56ef-498d-bd26-a7d646bec914",
+                    "url": "https://www.scrumalliance.org/",
+                    "date": {
+                        "end": "2018-04-01T00:00:00.000Z",
+                        "start": "2016-04-01T00:00:00.000Z"
+                    },
+                    "name": "Certified Scrum Master (CSM)",
+                    "issuer": "Scrum Alliance",
+                    "summary": "Credential ID 000516133"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "DD MMMM YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#ffffff",
+            "primary": "#cc4ed9",
+            "background": "#16213E"
+        },
+        "layout": [
+            [
+                [
+                    "work"
+                ],
+                []
+            ],
+            [
+                [
+                    "education",
+                    "skills",
+                    "publications",
+                    "awards",
+                    "projects",
+                    "volunteer"
+                ],
+                []
+            ],
+            [
+                [
+                    "references",
+                    "certifications",
+                    "interests",
+                    "languages"
+                ],
+                []
+            ]
+        ],
+        "locale": "en",
+        "template": "onyx",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
