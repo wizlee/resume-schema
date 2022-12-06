@@ -152,8 +152,7 @@
                     "name": "Operation Systems",
                     "level": "Intermediate",
                     "keywords": [
-                        "Unix Shell (Bash)",
-                        "Windows Shell (PowerShell, Batch)",
+                        "Scripts (Bash,PowerShell,Batch)",
                         "x86 Assembly Language",
                         "Windows Internals",
                         "Linux Internals",
@@ -171,7 +170,7 @@
                         "Git",
                         "AWS",
                         "Computer Security",
-                        "Test Driven Development (TDD)",
+                        "TDD",
                         "SOLID Design Principles",
                         "Virtualization",
                         "Digital Image Processing",
@@ -234,9 +233,10 @@
                     "id": "2df59b01-8dde-40d5-b3da-f5f5e698e8fa",
                     "name": "Science:",
                     "keywords": [
-                        "Astronomy",
+                        "Psychology",
                         "Engineering",
-                        "Nature"
+                        "Nature",
+                        "Astronomy"
                     ]
                 },
                 {
@@ -300,7 +300,7 @@
                         "end": "2018-12-31T00:00:00.000Z",
                         "start": "2018-05-31T00:00:00.000Z"
                     },
-                    "summary": "i. Organize the first Hackathon in Motorola Penang with good synergy among fellow Hackathon committees.\nii. Work with senior leadership of the organization to align event expectation.  \niii. Create a committee structure consists of several functional groups each with a group leader. This is important because all the committee members volunteer for the event and efficiency is crucial to maximize everyone's time.",
+                    "summary": "1. Organize the first Hackathon in Motorola Penang with good synergy among fellow Hackathon committees.\n2. Work with senior leadership of the organization to align event expectation.  \n3. Create a committee structure consists of several functional groups each with a group leader. This is important because all the committee members volunteer for the event and efficiency is crucial to maximize everyone's time.",
                     "position": "Chairperson for 2018 Motorola Penang Hackathon",
                     "organization": "Motorola Solutions"
                 },
@@ -311,7 +311,7 @@
                         "end": "2020-11-30T00:00:00.000Z",
                         "start": "2020-06-30T00:00:00.000Z"
                     },
-                    "summary": "i. Implements a Proof of Concept (POC) to be presented during Innovation Showcase.\nii. Major contribution is in the front-end web design and enabling the connection between a radio and a web server via an Ethernet connection.",
+                    "summary": "1. Implements a Proof of Concept (POC) to be presented during Innovation Showcase.\n2. Major contribution is in the front-end web design and enabling the connection between a radio and a web server via an Ethernet connection.",
                     "position": "Project Member of an Innovation Project",
                     "organization": "Motorola Solutions"
                 },
@@ -322,7 +322,7 @@
                         "end": "2018-03-31T00:00:00.000Z",
                         "start": "2018-03-31T00:00:00.000Z"
                     },
-                    "summary": "Program Name: Women in Zcience (WIZ)\ni. Conduct a workshop that will spark students' interest in Science and Technology with 3 other team members.\nii. This program targets students from primary school up to the pre-university level.\niii. Title of the workshop conducted is 'Introduction to AI through Python Gaming Experience'",
+                    "summary": "Program Name: Women in Zcience (WIZ)\n1. Conduct a workshop that will spark students' interest in Science and Technology with 3 other team members.\n2. This program targets students from primary school up to the pre-university level.\n3. Title of the workshop conducted is 'Introduction to AI through Python Gaming Experience'",
                     "position": "Volunteer in STEM Outreach Program",
                     "organization": "Tech Dome Penang, Co-sponsored by several Multinational Companies "
                 },
@@ -441,8 +441,8 @@
         "template": "onyx",
         "typography": {
             "size": {
-                "body": 14,
-                "heading": 28
+                "body": 12,
+                "heading": 26
             },
             "family": {
                 "body": "Open Sans",
