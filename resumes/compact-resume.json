@@ -169,15 +169,16 @@
                     "level": "Intermediate",
                     "keywords": [
                         "Git",
+                        "AWS",
+                        "Computer Security",
                         "SOLID Design Principles",
                         "Test Driven Development (TDD)",
-                        "Computer Security",
-                        "RabbitMQ",
                         "Virtualization",
                         "Digital Image Processing",
                         "Computer Networking",
                         "Electronic Circuit Design",
-                        "Jenkins/Azure DevOps"
+                        "Jenkins/Azure DevOps",
+                        "RabbitMQ"
                     ],
                     "levelNum": 6
                 }
